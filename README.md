@@ -1,5 +1,5 @@
 # DLCV_2023
-projects related to "Deep leaning for computer vision" course.
+projects related to "Deep learning for computer vision" course.
 
 ## Assignment_1 
 Building and training of 
