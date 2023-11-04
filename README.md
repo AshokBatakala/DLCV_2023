@@ -16,10 +16,14 @@ Building and training of
 
 these are some sample dance sequences generated with shallow diffusion model.
 
-![sample_1][width= 100](https://github.com/AshokBatakala/DLCV_2023/assets/111169763/948ac341-01d4-4eb3-ab36-d60c87e0e8fa)
+![sample_1](https://github.com/AshokBatakala/DLCV_2023/assets/111169763/948ac341-01d4-4eb3-ab36-d60c87e0e8fa)
 
 ![sample_2](https://github.com/AshokBatakala/DLCV_2023/assets/111169763/04aaea0f-0147-450c-9fe5-1faea93de4e0)
 
 ![sample_3](https://github.com/AshokBatakala/DLCV_2023/assets/111169763/877ef023-339c-47d5-a98e-39986b9a8c79)
+
+ <img src="(https://github.com/AshokBatakala/DLCV_2023/assets/111169763/948ac341-01d4-4eb3-ab36-d60c87e0e8fa" width="30%" /> 
+  <img src="https://github.com/AshokBatakala/DLCV_2023/assets/111169763/04aaea0f-0147-450c-9fe5-1faea93de4e0" width="30%" /> 
+   <img src= "https://github.com/AshokBatakala/DLCV_2023/assets/111169763/877ef023-339c-47d5-a98e-39986b9a8c79" width="30%" /> 
 
 
