@@ -1,20 +1,23 @@
-# DLCV_2023
-projects done for *DS265-Deep Learning For Computer Vision* course taught by [R.Venkatesh babu](https://cds.iisc.ac.in/faculty/venky/).
+# Deep Learning for Computer Vision (DS265)
 
-these are some sample dance sequences generated with shallow diffusion model. ( from Assignment 3 )
+This repository contains coursework and projects completed for **DS265: Deep Learning for Computer Vision** at IISc, taught by [Prof. R. Venkatesh Babu](https://cds.iisc.ac.in/faculty/venky/).
+
+Sample dance motion sequences generated using a **Shallow Diffusion Model** (Assignment 3):
  <img src="https://github.com/AshokBatakala/DLCV_2023/assets/111169763/948ac341-01d4-4eb3-ab36-d60c87e0e8fa" width="30%" /> 
    <img src= "https://github.com/AshokBatakala/DLCV_2023/assets/111169763/877ef023-339c-47d5-a98e-39986b9a8c79" width="30%" /> 
   <img src="https://github.com/AshokBatakala/DLCV_2023/assets/111169763/04aaea0f-0147-450c-9fe5-1faea93de4e0" width="30%" /> 
 
-## Assignment_1 
-Building and training of 
-1. GLMs
-2. Modular vector Backpropagation
-3. CNNs for classification
+---
+## Assignments
+All the networks are implemented from scratch. Without the use of libraries such as Pytorch or Tensorflow.
+### Assignment 1
+- Generalized Linear Models (GLMs)
+- Modular Vector Backpropagation: Custom neural network implementation from scratch.
+- Convolutional Neural Networks (CNNs)
 
-## Assignment_2
-1. vision Trainformer
-2. Deep convolutional GAN
+### Assignment 2
+- Vision Transformers (ViT: Architecture implementation and training.
+- Deep Convolutional GAN (DCGAN)
 
-## Assignment_3 
-1. Diffusion models for joint motion synthesis
+### Assignment 3
+- Diffusion Models: Joint motion synthesis for generating realistic human pose/dance sequences.
