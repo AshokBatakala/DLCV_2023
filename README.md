@@ -1,5 +1,10 @@
 # DLCV_2023
-projects related to "Deep learning for computer vision" course.
+projects done for *DS265-Deep Learning For Computer Vision* course taught by [R.Venkatesh babu](https://cds.iisc.ac.in/faculty/venky/).
+
+these are some sample dance sequences generated with shallow diffusion model. ( from Assignment 3 )
+ <img src="https://github.com/AshokBatakala/DLCV_2023/assets/111169763/948ac341-01d4-4eb3-ab36-d60c87e0e8fa" width="30%" /> 
+   <img src= "https://github.com/AshokBatakala/DLCV_2023/assets/111169763/877ef023-339c-47d5-a98e-39986b9a8c79" width="30%" /> 
+  <img src="https://github.com/AshokBatakala/DLCV_2023/assets/111169763/04aaea0f-0147-450c-9fe5-1faea93de4e0" width="30%" /> 
 
 ## Assignment_1 
 Building and training of 
@@ -13,11 +18,3 @@ Building and training of
 
 ## Assignment_3 
 1. Diffusion models for joint motion synthesis
-
-these are some sample dance sequences generated with shallow diffusion model. ( from Assignment 3 )
-
- <img src="(https://github.com/AshokBatakala/DLCV_2023/assets/111169763/948ac341-01d4-4eb3-ab36-d60c87e0e8fa" width="30%" /> 
-   <img src= "https://github.com/AshokBatakala/DLCV_2023/assets/111169763/877ef023-339c-47d5-a98e-39986b9a8c79" width="30%" /> 
-  <img src="https://github.com/AshokBatakala/DLCV_2023/assets/111169763/04aaea0f-0147-450c-9fe5-1faea93de4e0" width="30%" /> 
-
-
